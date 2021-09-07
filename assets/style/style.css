@@ -12,9 +12,8 @@ body {
 header {
     display:flex;
     flex-direction:row;
-    justify-content:space-between;
+    justify-content:center;
     align-items:center;
-    margin-left:3%;
 
 }
 
@@ -27,8 +26,8 @@ h1 {
 }
 
 nav {
-    
-    margin-right:3%;
+
+    text-align:center;
 }
 
 nav a, a:active, a:visited {
@@ -36,7 +35,8 @@ nav a, a:active, a:visited {
     font-size:20px;
     color:#014DAF;
     text-decoration:none;
-    margin-left:20px;
+    margin-left:10px;
+    margin-right:10px;
     
 }
 
